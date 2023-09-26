@@ -1,0 +1,51 @@
+body
+{
+	background-color: red;
+}
+
+h1
+{
+	color: hotpink;
+	font-size: 40px;
+	text-align: center;
+}
+
+div
+{
+
+	border: 4px solid yellowgreen;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	padding: 3%;
+	background-color: blueviolet;
+	border-radius: 5%;
+}
+
+.groupe1
+{
+background-color: blueviolet;
+}
+
+.groupe2
+{
+	background-color: burlywood;
+}
+.b1 {
+	background-color: #0074d9;
+	color: greenyellow;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	text-align: center;
+	margin: 10px;
+	cursor: pointer;
+	transform: color 0.3s ease;
+	width:250px;
+}
+
+.b1:hover {
+	color: blueviolet;
+	background-color:red; 
+}

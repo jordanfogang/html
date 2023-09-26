@@ -1,0 +1,53 @@
+body
+{
+	background-color: blue;
+}
+
+h1
+{
+	color: hotpink;
+	font-size: 40px;
+	text-align: center;
+}
+
+
+
+div
+{
+
+	border: 3px solid yellowgreen;
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 3%;
+	padding: 3%;
+	background-color: blueviolet;
+	border-radius: 3%;
+}
+
+.div1
+{
+background-color: blueviolet;
+}
+
+.imag
+{
+	background-color: burlywood;
+}
+.b1{
+	background-color: #0074d9;
+	color: greenyellow;
+	border: none;
+	border-radius: 50%;
+	text-align: center;
+	margin: auto;
+	cursor: pointer;
+	transform: color 0.3s ease;
+	width:75px;
+	height: 75px;
+}
+.div1:hover {
+	color: blueviolet;
+	background-color:red; 
+	
+}
