@@ -1,0 +1,26 @@
+body
+{
+	background-color: blueviolet;
+
+}
+
+.v{
+	color:green;
+}
+.b {
+	background-color: #0074d9;
+	color: greenyellow;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	text-align: center;
+	margin: 10px;
+	cursor: pointer;
+	transform: color 0.3s ease;
+	width:250px;
+}
+
+.b:hover {
+	color: blueviolet;
+	background-color:red; 
+}
