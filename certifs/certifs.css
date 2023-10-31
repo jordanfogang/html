@@ -1,0 +1,12 @@
+boby {
+    background-color: rgb(72, 0, 255);
+}
+
+img {
+    box-shadow: 10px 5px black;
+    width: 75%;
+    margin-bottom: 50px;
+    clear: both;
+    padding: 10px;
+    border-radius: 10px;
+}
